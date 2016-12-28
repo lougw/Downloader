@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DownloaderLibrary</string>
+    <string name="download_no_network">No network. Please retry after connected to the Internet</string>
+    <string name="download_limit_flow">Download limit traffic, please wait for a wifi connection or click continue</string>
+    <string name="wlan_notice">Please connect wireless network (WLAN) or modify the Settings before download!</string>
+    <string name="download_no_space">Storage space is insufficient, please clean up the storage space and try again</string>
+</resources>
